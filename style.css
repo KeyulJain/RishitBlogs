@@ -41,6 +41,12 @@ h1{
 #update{
     font-size: 14px;
 }
+.foll{
+    position: relative;
+    text-align: center;
+    justify-content: center;
+    padding: 10px;
+}
 #deals{
     font-size: 43px;
 }
