@@ -41,7 +41,7 @@ h1{
 #update{
     font-size: 14px;
 }
-.foll{
+.foll, #blogs{
     position: relative;
     text-align: center;
     justify-content: center;
